@@ -126,5 +126,5 @@ area = length * width;
 Console.WriteLine($"The area of the rectangle is {length} x {width} = {area}");
 Console.WriteLine("You finish class and manage to complete all your timestables");
 
-Console.WriteLine("")
+Console.WriteLine("You're tired and decide to go home early.")
 Console.WriteLine("END");
